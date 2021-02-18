@@ -1,0 +1,141 @@
+.crown{
+    background-color: #0F0E0E;
+}
+
+.center{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.block{
+    background: #FFFFFF;
+    border-radius: 15px;
+    width: 237px;
+    height: 302px;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+.blocks{
+    padding-top: 30px;
+    padding-bottom: 80px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+.img img{
+    width: 162px;
+    height: 162px;
+}
+.title{
+    text-transform: uppercase;
+    font-family: Montserrat arm;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    padding-top: 30px;
+    text-align: start;
+
+}
+.icons{
+    display: flex;
+}
+
+.i1{
+    margin-left: 10px;
+    padding-top: 10px;
+    cursor: pointer;
+    color: #9E9E9E;
+}
+
+.i2{
+    margin-left: 183px;
+    padding-top: 10px;
+    cursor: pointer;
+    color: #9E2727;
+}
+
+.titimg h3{
+    color: #A67700;
+    font-family: Montserrat arm;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    text-align: start;
+    margin-left: 8px;
+}
+
+.images{
+    display: flex;
+    padding-right: 10px;
+}
+.titimg{
+    display: flex;
+    justify-content: space-between;
+}
+.price{
+    color: #1E1A1A;
+    font-family: Montserrat arm;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    text-align: start;
+    margin-left: 8px;
+    padding-top: 2px;
+}
+.text{
+    color: #565656;
+    font-family: Montserrat arm;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    text-transform: capitalize;
+    text-align: start;
+    margin-left: 8px;
+}
+.ictext{
+    display: flex;
+    padding-top: 5px;
+}
+.icon{
+    background-color: black;
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 51px;
+    margin-top: 11px;
+
+}
+.icon img{
+    width: 18px;
+    height: 20px;
+
+}
+
+
+.titmore{
+    color: #A67700;
+    text-transform: uppercase;
+    font-family: Montserrat arm;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.more{
+    text-align: end;
+    margin-right: 80px;
+}
+

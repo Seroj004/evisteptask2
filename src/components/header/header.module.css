@@ -1,0 +1,65 @@
+.center{
+    background-image: url("../../images/photo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 2px solid #A67700;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+
+
+.title{
+    color: #FFFFFF;
+    text-transform: uppercase;
+    font-family: Montserrat arm;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 37px;
+    text-align: start;
+    padding-top: 117px;
+    padding-left: 107px;
+}
+.text{
+    color: #FFFFFF;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-family: Montserrat arm;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: start;
+    padding-left: 107px;
+    padding-top: 41px;
+}
+
+.btn{
+    width: 158px;
+    height: 24px;
+    color: #FFFFFF;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    font-family: Montserrat arm;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    background-color: black;
+    text-align: start;
+    width: 220px;
+    height: 40px;
+    cursor: pointer;
+    border: 1px solid   white;
+    padding-left: 49px;
+
+}
+
+.button{
+    text-align: start;
+    padding-left: 107px;
+    padding-top: 37px;
+    padding-bottom: 115px;
+}
